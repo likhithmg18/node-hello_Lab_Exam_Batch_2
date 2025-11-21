@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: node-hello-container
-          image: likhithmg18/node-hello:latest   # Change this to your built image
+          image: likhith189/node-hello:latest   # Change this to your built image
           ports:
             - containerPort: 3000
           env:
